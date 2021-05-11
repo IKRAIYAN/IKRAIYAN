@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IKRAIYAN
+- 👋 Hi, I’m Irfan Khan Raiyan
 - 👀 I’m interested in coding,discord and many things.
 - 🌱 I’m currently learning javascript and python.
 - 😂 Fun Fact ~ I made a discord bot [Invite Link](https://discord.com/oauth2/authorize?client_id=816596547801972777&scope=bot&permissions=1342434430)
