@@ -39,11 +39,9 @@
 ---
 
 
-<details>
 ### Stats
 <img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=IKRAIYAN&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=263238">
 
-</details>
 
 [website]: https://ikraiyan.github.io
 [instagram]: https://instagram.com/i_k_raiyan
