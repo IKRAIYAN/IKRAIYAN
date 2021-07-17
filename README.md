@@ -9,10 +9,6 @@
 - 🌱 I’m currently learning javascript and python.
 - 😂 Fun Fact ~ I made a discord bot and it got verified by discord [Invite Link](https://discord.com/oauth2/authorize?client_id=816596547801972777&scope=bot&permissions=1342434430)
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-.vercel.app/api/spotify-playing" alt="I_K_RAIYAN Spotify Playing" width="350" />](https://open.spotify.com/track/4PKWV4BnyasmxaCY1RiJrs?si=1ae1640959324b03)
-
 ### Connect with me:
 
 1. Discord -- I_K_RAIYAN#0001 || [Server](https://discord.gg/6unEtRYcZP)
