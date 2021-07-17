@@ -1,6 +1,6 @@
 ### Hi there, I'm Irfan Khan Raiyan - aka [Mr.IKR](https://ikraiyan.github.io) 👋
 
-[![Website](https://img.shields.io/website?label=Irfan-Khan-Raiyan.com&style=for-the-badge&url=https%3A%2F%2Fikraiyan.github.io)](https://ikraiyan.github.io)
+[![Website](https://img.shields.io/website?label=ikraiyan.github.io&style=for-the-badge&url=https%3A%2F%2Fikraiyan.github.io)](https://ikraiyan.github.io)
 
 ## I'm a Student, Coder, and Learner!!
 
@@ -11,7 +11,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/track/4PKWV4BnyasmxaCY1RiJrs?si=1ae1640959324b03)
+[<img src="https://now-playing-.vercel.app/api/spotify-playing" alt="I_K_RAIYAN Spotify Playing" width="350" />](https://open.spotify.com/track/4PKWV4BnyasmxaCY1RiJrs?si=1ae1640959324b03)
 
 ### Connect with me:
 
