@@ -1,6 +1,6 @@
 ### Hi there, I'm Irfan Khan Raiyan - aka [Mr.IKR](https://ikraiyan.github.io) 👋
 
-[![Website](https://img.shields.io/website?label=www.ikraiyan.cf&style=for-the-badge&url=https%3A%2F%2Fikraiyan.github.io)](https://ikraiyan.github.io)
+[![Website](https://img.shields.io/website?label=www.ikraiyan.cf&style=for-the-badge&url=https%3A%2F%2Fikraiyan.github.io)](https://www.ikraiyan.cf/)
 
 ## I'm a Student, Coder, and Learner!!
 
