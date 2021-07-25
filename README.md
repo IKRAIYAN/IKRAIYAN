@@ -1,6 +1,6 @@
 ### Hi there, I'm Irfan Khan Raiyan - aka [Mr.IKR](https://ikraiyan.github.io) 👋
 
-[![Website](https://img.shields.io/website?label=www.ikraiyan.cf&style=for-the-badge&url=https%3A%2F%2Fikraiyan.github.io)](https://www.ikraiyan.cf/)
+[![Website](https://img.shields.io/website?label=ikraiyan.github.io&style=for-the-badge&url=https%3A%2F%2Fikraiyan.github.io)](https://www.ikraiyan.cf/)
 
 ## I'm a Student, Coder, and Learner!!
 
@@ -41,6 +41,8 @@
 
 ### Stats
 <img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=IKRAIYAN&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=263238">
+
+<img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash094&theme=blue-green&count_private=true">
 
 
 [website]: https://ikraiyan.github.io
