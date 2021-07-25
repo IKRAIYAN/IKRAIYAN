@@ -42,7 +42,7 @@
 ### Stats
 <img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=IKRAIYAN&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=263238">
 
-<img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash094&theme=blue-green&count_private=true">
+<img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IKRAIYAN&theme=blue-green&count_private=true">
 
 
 [website]: https://ikraiyan.github.io
