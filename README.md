@@ -6,7 +6,7 @@
 
 - 👋 Hi, I’m Irfan Khan Raiyan
 - 👀 I’m interested in coding,discord and many things.
-- 🌱 I’m currently learning javascript and python.
+- 🌱 I’m currently learning javascript html5 and css3.
 - 😂 Fun Fact ~ I made a discord bot and it got verified by discord [Invite Link](https://discord.com/oauth2/authorize?client_id=816596547801972777&scope=bot&permissions=1342434430)
 
 ### Connect with me:
