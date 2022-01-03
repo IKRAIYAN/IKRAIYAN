@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-1. Discord -- I_K_RAIYAN#0001 || [Server](https://discord.gg/6unEtRYcZP)
+1. Discord -- I_K_RAIYAN#9742 || [Server](https://discord.gg/6unEtRYcZP)
 
 2. [Instagram](https://www.instagram.com/i_k_raiyan/)
 
